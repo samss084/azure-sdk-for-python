@@ -2,7 +2,7 @@
 # Copyright (c) Microsoft Corporation. All rights reserved.
 # ---------------------------------------------------------
 
-# pylint: disable=protected-access,too-many-instance-attributes
+# pylint: disable=protected-access,too-many-instance-attribute
 
 import logging
 import re
